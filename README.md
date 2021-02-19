@@ -19,4 +19,5 @@ Se você não tiver o Make, pode verificar usando somente o Agda:
 Se precisar de ajuda para instalar o Agda, dê uma olhada no site oficial https://agda.readthedocs.io/en/v2.6.1/getting-started/installation.html
 
 ## Onde encontro o texto?
-Quando o documento for aprovado e registrado na biblioteca da UFOP, deixarei um link aqui.
+
+https://www.monografias.ufop.br/handle/35400000/2738
